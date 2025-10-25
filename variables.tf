@@ -21,7 +21,7 @@ variable "environment" {
   type        = string
 }
 
-variable "notification_mail" {
+variable "engineer_mail" {
   description = "provide an email to send mails"
   type        = string
 }

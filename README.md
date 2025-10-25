@@ -39,7 +39,7 @@ No modules.
 | <a name="input_app_id"></a> [app\_id](#input\_app\_id) | provide an app-id | `string` | n/a | yes |
 | <a name="input_aws_region"></a> [aws\_region](#input\_aws\_region) | provide the aws\_region | `string` | n/a | yes |
 | <a name="input_environment"></a> [environment](#input\_environment) | provide some environment name | `string` | n/a | yes |
-| <a name="input_notification_mail"></a> [notification\_mail](#input\_notification\_mail) | provide an email to send mails | `string` | n/a | yes |
+| <a name="input_engineer_mail"></a> [notification\_mail](#input\_notification\_mail) | provide an email to send mails | `string` | n/a | yes |
 
 ## Outputs
 
