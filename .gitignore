@@ -1,0 +1,8 @@
+# Terraform
+
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+
+# Mics
+.DS_Store
